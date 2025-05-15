@@ -1,0 +1,13 @@
+In CSS, the property pointer-events: none makes an element invisible to mouse interactions.
+
+When applied:
+
+Clicks, hovers, and other mouse events will pass through the element.
+
+The element will still appear visually, but it will not block or receive input.
+
+✅ In Tailwind CSS
+html
+Copy
+Edit
+pointer-events-none
